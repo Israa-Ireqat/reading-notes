@@ -33,15 +33,14 @@
 
     while (var smth= anything)
     {
-        document.write (smth)
+        document.write (smthth)
     }
 
 
 
-
-*
 *********************
-    
+
+
 **Example**:
 
     var order =prompt ("What Do you  prefer a Hotel or a Motel?");
