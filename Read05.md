@@ -35,6 +35,11 @@
     {
         document.write (smth)
     }
+
+
+
+
+*
 *********************
     
 **Example**:
