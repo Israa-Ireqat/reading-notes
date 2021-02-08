@@ -35,6 +35,8 @@
     {
         document.write (smth)
     }
+*********************
+    
 **Example**:
 
     var order =prompt ("What Do you  prefer a Hotel or a Motel?");
@@ -44,7 +46,7 @@
         }
     
 
-    
+
     for (var i =0 ;i<numOfbeds ;i++)
     {
     result=result+choice
