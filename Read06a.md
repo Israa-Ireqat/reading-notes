@@ -12,3 +12,10 @@
     }
 
 ### When the function needs information to rum the statement we put the information iside the ( ) as variables.
+****
+## Example:
+
+    function printInput (orderf,numOfbedsf){
+    document.write ('Your choice is :'+ orderf +' room Consists of '+numOfbedsf+ 'beds');
+    }
+    printInput (order,numOfbeds)
