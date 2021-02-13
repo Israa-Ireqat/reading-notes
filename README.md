@@ -14,6 +14,7 @@
 - Accept critisicm and learn from it to do better.
 
 ## ***Here you can find all my reading-notes pages:***
+### ***Course 102 notes:***
 **1. [Read03 :Structure web pages with TTML](Read03.md)**
 
 **2.  [Read04 :Programming with Java Script](Read04.md)**
@@ -24,5 +25,8 @@
 
 
 **5.  [Read06b :Design web pages with CSS](Read06b.md)**
+#
+#
+### ***Course 201 notes:***
 
-**6.  [class-01 :](class-01.md)**
+**1.  [class-01 :](class-01.md)**
