@@ -1,6 +1,6 @@
 # **HTML Text**
 ***Markup tags are added to the content of the web pages, the allow the browser to show appropriate structure of the page>***
-#
+*******
 ## ***Markup types***
 * #### **Structural markup (to describe headings and paragraphs):**
    * Headings **\<h1>,<h2>,..,\<h6>**
@@ -25,5 +25,4 @@
     * Author details **\<adress>** used to contain contact details.
     * **\<del>** Makes a line through the text.
     * **\<ins>** Makes the text underlined.
-    #
-    
+    ******
