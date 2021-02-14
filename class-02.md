@@ -1,5 +1,6 @@
 # **HTML Text**
 ***Markup tags are added to the content of the web pages, the allow the browser to show appropriate structure of the page>***
+
 *******
 ## ***Markup types***
 * #### **Structural markup (to describe headings and paragraphs):**
@@ -25,4 +26,31 @@
     * Author details **\<adress>** used to contain contact details.
     * **\<del>** Makes a line through the text.
     * **\<ins>** Makes the text underlined.
-    ******
+    ****
+     
+   ## ***CSS***
+    ***CSS associates style rules with HTML elements and affect hoe they are displayed.***
+    ### *Style example in CSS*
+    * Boxes width,hight,colors and position.
+    * Text size, type, and color.
+    * Specific lists, tables and forms.
+    #### **Using external CSS** 
+    **\<link rel="stylesheet" href="design.css">**
+    #### **Using internal CSS.**
+    **\<style>
+            h1 {
+               color: blue; 
+               }
+             \</style>**
+
+## **CSS selectors**
+* Type selector
+* Class selector
+* Global selector
+* ID selector
+and other selectors.
+![](https://i.pinimg.com/originals/bc/97/96/bc97965579512f8a6d2303934f599c65.png)
+
+
+
+
