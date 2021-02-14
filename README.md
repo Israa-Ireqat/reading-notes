@@ -29,4 +29,6 @@
 #
 ### ***Course 201 notes:***
 
-**1.  [class-01 :](class-01.md)**
+**1.  [class-01 ](class-01.md)**
+
+**2.  [class-02 : Basics of HTML, CSS & JS ](class-02.md)**
