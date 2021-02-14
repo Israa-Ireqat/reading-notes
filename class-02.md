@@ -51,6 +51,53 @@
 and other selectors.
 ![](https://i.pinimg.com/originals/bc/97/96/bc97965579512f8a6d2303934f599c65.png)
 
+# **Java Script**
+## *Statements in JS*:
+* A statement is the step or the individual instruction that the computer follows and it ends with a semi colon.
+* JS is case sensetive.
+* You can write a comment in JS by typing a back slash with star for the single-line comment and by typing double-back slash for the multi-line comment.
+* A variable is a script that its value can be changed.
+* There aer three data types in JS:
+  * **Number**
+  * **String** for letters
+  * **Boolean** True or False
+ * Quotes is written by typing a back slash before the quote.
+ * **Array**: it is a special type of variables that stores more than one value.
+ ![](https://miro.medium.com/max/7208/1*FTeGAr2QeoFgYXWNQ2leuA.png)
+
+## **Condetional statements**
+![](https://miro.medium.com/max/1200/0*ZNBR1fzvqYEqtM5M)
+
+## Comparison operators:
+
+    Equal to ==
+    Not equal to !==
+    Strict equal to ===
+    Strict not equal to !==
+    Greater than >
+    Greater than or equal >=
+    Less than <
+    Less than or equal <=
+### Logical
+
+    And operator &&
+    Or operator ||
+    Not operator !
+    False && anything returns False
+    True || anything returns True
+
+   ## **Example**:
+
+    var order =prompt ("What Do you  prefer a Hotel or a Motel?");
+    while (order !== "Hotel" && order !== "Motel") 
+    {
+        order= prompt ("What Do you prefer a Hotel or Motel?")
+        }
+    
 
 
-
+    for (var i =0 ;i<numOfbeds ;i++)
+    {
+    result=result+choice
+    }
+    document.write (result);
