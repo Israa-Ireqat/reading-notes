@@ -1,4 +1,5 @@
 # ***Reading notes***
+----
 ## **This web site was built to share with you all of my reading notes across the courses of my web development journey.**
 
 ![](https://intaj.net/wp-content/uploads/2020/08/ASAC-Bilingual-1024x220.png)
@@ -26,8 +27,8 @@
 
 
 **5.  [Read06b :Design web pages with CSS](Read06b.md)**
-****
-****
+----
+----
 ### ***Course 201 notes:***
 
 **1.  [class-01 ](class-01.md)**
