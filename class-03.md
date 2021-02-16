@@ -25,3 +25,15 @@
       background-color:powderblue;
      }
 
+### **Border, Margin, and padding**
+ 
+` p.example1 {
+            border:1px solid;
+            border-bottom-color:#009900; /* Green */
+            border-top-color:#FF0000;    /* Red */
+            border-left-color:#330000;   /* Black */
+            border-right-color:#0000CC;  /* Blue */
+         }  `
+
+#### *Padding is used to specify the space needed between the content and the border of an element*
+
