@@ -37,3 +37,91 @@
 
 #### *Padding is used to specify the space needed between the content and the border of an element*
 
+# **JS Arrays, Desicions and loops.**
+---
+#### **Array is a type of variables that can store more than one value. Values inside the array can be in any date type of JS or more than one data type in the same array.**
+Example:
+`
+let colors = ['red', 'green', 'blue'];
+`
+##### Arrays numbering of elements sterts with 0.
+`
+let fruits = ["Figs", "Banana", "Mango", "Orange", "Papaya"];
+fruits=[0] represents the element  (Figs)
+fruits=[1] represents the element  (Banana)
+fruits=[2] represents the element  (Mango)
+`
+#### The value of an element in the array can be changed.
+`
+let colors = ['red', 'green', 'blue'];
+let colors[2]=Black;
+`
+
+---
+---
+### **If else statement**
+![](https://th.bing.com/th/id/R72ed19cea74119a275e57a5a4bf29b0c?rik=4QPViB%2fl1Lv6Qw&riu=http%3a%2f%2fwww.kirupa.com%2fhtml5%2fimages%2fif_else_72.png&ehk=Ij6ACLCTJg%2fhnl9txNThMOZ0%2blFyGb2alV8NXp6tRuU%3d&risl=&pid=ImgRaw)
+
+### **Switch elements:**
+***The switch case is a decision-making statement in JavaScript which is used to execute a specific block of code against an expression.***
+
+     swinum = 3;
+ 
+     switch(swinum){
+ 
+     case 1:
+ 
+     alert ("Case 1 is true!");
+ 
+     break;
+     case 2:
+     alert ("Case 2 is true!");
+     break;
+     case 3:
+     alert ("Case 3 is true!");
+     break;
+     default:
+    alert ("None of the case is true!");
+    break;
+    } 
+
+
+### **Loops**
+## **For and While loops**:
+
+    for (var i=0;i<10;i++)
+    {
+        document.write (i);
+    }
+    var i=0 is the initialization
+    i<10 is the condition
+    i++ is the counter or update
+
+---
+  
+    while (var smth= anything)
+    {
+        document.write (smthth)
+    }
+
+
+
+---
+
+
+**Example**:
+
+    var order =prompt ("What Do you  prefer a Hotel or a Motel?");
+    while (order !== "Hotel" && order !== "Motel") 
+    {
+        order= prompt ("What Do you prefer a Hotel or Motel?")
+        }
+    
+
+
+    for (var i =0 ;i<numOfbeds ;i++)
+    {
+    result=result+choice
+    }
+    document.write (result);
+
