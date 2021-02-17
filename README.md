@@ -36,3 +36,5 @@
 **2.  [class-02 : Basics of HTML, CSS & JS ](class-02.md)**
 
 **3.  [class-03 : HTML Lists, CSS Boxes, JS Control Flow ](class-03.md)**
+
+**4.  [class-04 : HTML Links, JS Functions, and Intro to CSS Layout ](class-04.md)**
