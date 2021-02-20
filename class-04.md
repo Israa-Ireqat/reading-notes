@@ -20,3 +20,14 @@ Use the (Relative URL)
 Using the `id` attribute.`#`
 * **Linking to a specific part from another page**
 Using the `id` attribute after the page link.`<a href="http://www.google.com/#bottom">`
+
+## Layout
+***CSS treats elements as boxes either block-level or inline elements.***
+* **Block-level elements `<h1>,<p>,<ul>`**
+* **Inline elements `<img>,<b>,<i>`**
+**Parent element is the element containing elements inside.`<div>`**
+
+### **Controling the position of element**
+* Normal flow
+* Relative positioning
+* Absolute positioning
