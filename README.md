@@ -42,3 +42,5 @@
 **5.  [class-05 : HTML Images, CSS colors and text. ](class-05.md)**
 
 **6.  [class-06 : JS objects literals, The DOM .](class-06.md)**
+
+**7.  [class-07 : Object-Oriented Programming, HTML Tables .](class-07.md)**
