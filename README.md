@@ -52,3 +52,5 @@
 **10.  [class-10 :Error Handling & Debugging .](class-10.md)**
 
 **11.  [class-11 :Assorted Topics .](class-11.md)**
+
+**12.  [Docs for the HTML `<canvas>` Element & Chart.js .](class-12.md)**
