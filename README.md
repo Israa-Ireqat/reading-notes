@@ -16,7 +16,7 @@
 - Accept critisicm and learn from it to do better.
 
 ## ***Here you can find all my reading-notes pages:***
-## [Code 102 - Intro to Software Development](course102readings.md)
+## [Code 102 - Intro to Software Development](corse102readings.md)
 
 ----
 ## [Code 201 - Foundations of Software Development](course201readings.md)
