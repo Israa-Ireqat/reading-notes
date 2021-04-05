@@ -4,3 +4,4 @@
  4.  **[Read: 04 - Responsive Web Design and Regular Expressions ](responsive.md)**
  5.  **[Read: 05 - Heroku Deployment ](heroku.md)**
  6.  **[Read: 06 - Node, Express, and APIs ](nea.md)**
+ 7.  **[Read: 07 - APIs continued ](Api.md)**
