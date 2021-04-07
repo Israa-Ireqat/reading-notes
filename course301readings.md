@@ -6,3 +6,4 @@
  6.  **[Read: 06 - Node, Express, and APIs ](nea.md)**
  7.  **[Read: 07 - APIs continued ](Api.md)**
  8.  **[Read: 08 - SQL ](SQL.md)**
+ 9.  **[Read: 09 - Refactoring ](refactoring.md)**
