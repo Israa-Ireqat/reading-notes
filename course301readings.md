@@ -10,3 +10,4 @@
 10. **[Read: 10 - The Call Stack and Debugging ](debugging.md)**
 11. **[Read: 11 - EJS ](EJS.md)**
 12. **[Read: 12 - Components](components.md)**
+13. **[Read: 13 - Update/Delete](update.md)**
