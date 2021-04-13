@@ -9,3 +9,4 @@
 9. **[Read: 09 - Refactoring ](refactoring.md)**
 10. **[Read: 10 - The Call Stack and Debugging ](debugging.md)**
 11. **[Read: 11 - EJS ](EJS.md)**
+12. **[Read: 12 - Components](components.md)**
