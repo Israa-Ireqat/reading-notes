@@ -11,3 +11,4 @@
 11. **[Read: 11 - EJS ](EJS.md)**
 12. **[Read: 12 - Components](components.md)**
 13. **[Read: 13 - Update/Delete](update.md)**
+14. **[Read: 14a - DB Normalization](normal.md)**
